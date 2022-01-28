@@ -1,0 +1,4 @@
+#Fri Jan 28 14:13:56 CST 2022
+base.0=/home/kent/Documents/code/flutter/RiverpodExperiment/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
